@@ -1,0 +1,9 @@
+Cylinder 0.5 8
+R x 90
+T 0 0 6
+
+# Fork tips
+Cuboid 0.3 0.3 3
+T 0 0.5 11
+Cuboid 0.3 0.3 3
+T 0 -0.5 11

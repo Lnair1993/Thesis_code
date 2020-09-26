@@ -1,0 +1,21 @@
+# Handle
+Cylinder 0.8 7
+T 0 -1 0
+
+# Head
+Multi_begin
+  Cylinder 0.15 5
+  Cylinder 0.15 5
+  R z -10
+  T 0.6 0 0
+  Cylinder 0.15 5
+  R z 10
+  T -0.6 0 0
+  Cylinder 0.15 5
+  R z 20
+  T -1.2 0 0
+  Cylinder 0.15 5
+  R z -20
+  T 1.2 0 0
+Multi_end
+T 0 4.4 0

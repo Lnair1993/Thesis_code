@@ -1,0 +1,23 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('plastic_handle.ply', 'screwdriver_small.ply')",1.125504,pierce,0.005621361,0.005621361
+"('red_flat_piece_2mag.ply', 'screwdriver_small.ply')",1.159838,pierce,0.005621363,0.005621363
+"('red_foam.ply', 'screwdriver_small.ply')",1.28131,pierce,0.005621365,0.005621365
+"('plastic_handle.ply', 'red_flat_piece_2mag.ply')",1.610676,None,inf,inf
+"('red_flat_piece_2mag.ply', 'plastic_handle.ply')",0.8410412,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.686674,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.6730667,None,inf,inf
+"('red_flat_piece_2mag.ply', 'plastic_handle.ply')",0.8410412,None,inf,inf
+"('plastic_handle.ply', 'red_foam.ply')",0.7276128,None,inf,inf
+"('screwdriver_small.ply', 'red_flat_piece_2mag.ply')",1.40279,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.6730667,None,inf,inf
+"('plastic_handle.ply', 'red_flat_piece_2mag.ply')",1.610676,None,inf,inf
+"('screwdriver_small.ply', 'red_flat_piece_2mag.ply')",1.40279,None,inf,inf
+"('plastic_handle.ply', 'red_flat_piece_2mag.ply')",1.610676,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.686674,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.6730667,None,inf,inf
+"('red_flat_piece_2mag.ply', 'plastic_handle.ply')",0.8410412,None,inf,inf
+"('screwdriver_small.ply', 'plastic_handle.ply')",0.4011857,None,inf,inf
+"('screwdriver_small.ply', 'red_foam.ply')",0.3148558,None,inf,inf
+"('screwdriver_small.ply', 'red_flat_piece_2mag.ply')",1.40279,None,inf,inf
+"('red_foam.ply', 'plastic_handle.ply')",1.025191,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.686674,None,inf,inf

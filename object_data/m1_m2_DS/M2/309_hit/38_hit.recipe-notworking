@@ -1,0 +1,7 @@
+Inter_begin
+  Cuboid 4 4 8
+  Sphere 4
+Inter_end
+Cylinder 1 10
+R z 90
+T 6 0 0

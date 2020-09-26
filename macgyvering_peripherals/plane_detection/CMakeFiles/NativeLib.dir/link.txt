@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -Wno-deprecated    -shared -Wl,-soname,NativeLib.so -o NativeLib.so CMakeFiles/NativeLib.dir/object_sense.cpp.o  -L/usr/local/lib 

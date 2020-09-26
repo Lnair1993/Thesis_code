@@ -1,0 +1,8 @@
+Cuboid 15 2 2
+T 11.38 0 0
+Cut_begin
+  Cuboid 8 6 6
+by
+  Cuboid 7 6 5
+  T 0 0.51 0
+Cut_end

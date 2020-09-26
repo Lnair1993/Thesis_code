@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<package>
+  <name>nimbus_move2pose</name>
+  <version>0.1.0</version>
+  <description>Move Nimbus arm to specified location</description>
+  <license>BSD</license>
+
+  <author email="lnair3@gatech.edu">Lakshmi Nair</author>
+
+  <maintainer email="lnair3@gatech.edu">Lakshmi Nair</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>pluginlib</build_depend>
+  <build_depend>moveit_core</build_depend>
+  <build_depend>moveit_ros_planning_interface</build_depend>
+  <build_depend>moveit_ros_perception</build_depend>
+  <build_depend>interactive_markers</build_depend>
+  <build_depend>cmake_modules</build_depend>
+  <build_depend>geometric_shapes</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>control_msgs</build_depend>
+  <build_depend>ecl_geometry</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>rail_manipulation_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>std_srvs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>tf2_ros</build_depend>
+
+
+  <run_depend>pluginlib</run_depend>
+  <run_depend>moveit_core</run_depend>
+  <run_depend>moveit_fake_controller_manager</run_depend>
+  <run_depend>moveit_ros_planning_interface</run_depend>
+  <run_depend>moveit_ros_perception</run_depend>
+  <run_depend>interactive_markers</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>control_msgs</run_depend>
+  <run_depend>ecl_geometry</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>rail_manipulation_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>std_srvs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>tf2_ros</run_depend>
+
+
+  <!-- Model -->
+  <run_depend>nimbus_description</run_depend>
+  
+  <!-- Sensors -->
+  <run_depend>openni_launch</run_depend>
+
+  <!-- Arm -->
+  <run_depend>kinova_bringup</run_depend>
+  <run_depend>kinova_driver</run_depend>
+
+  <!-- Gripper -->
+  <run_depend>robotiq_85_driver</run_depend>
+  <run_depend>robotiq_85_gripper_actions</run_depend>
+  
+  <!-- Motion Planning -->
+  <run_depend>nimbus_moveit_config</run_depend>
+
+  <!-- Vision -->
+  <run_depend>rail_segmentation</run_depend>
+
+  <!-- Visualization -->
+  <run_depend>rviz</run_depend>
+
+</package>

@@ -1,0 +1,10 @@
+Multi_begin
+  Cylinder 3 6
+  R z 90
+  Cuboid 3 8 3
+  Cuboid 3 8 3
+  R x 90
+Multi_end
+Cuboid 2 20 2
+R z 90
+T 9.5 0 0

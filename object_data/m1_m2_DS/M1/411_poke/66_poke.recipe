@@ -1,0 +1,9 @@
+Cylinder 1 18
+T 0 20.8 0
+
+Cut_begin
+  Cone 3 36
+by
+  Cuboid 6 24 6
+  T 0 24.1 0
+Cut_end

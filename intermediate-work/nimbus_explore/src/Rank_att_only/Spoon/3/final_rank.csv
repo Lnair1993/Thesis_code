@@ -1,0 +1,25 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('blue_cup.ply', 'tongs.ply')",0.6589568,grasp,0.06194096,0.06194096
+"('tongs.ply', 'beans_tin.ply')",1.251626,None,inf,inf
+"('tongs.ply', 'red_cylinder_magnetic.ply')",1.235525,None,inf,inf
+"('blue_cup.ply', 'red_cylinder_magnetic.ply')",0.9975222,None,inf,inf
+"('beans_tin.ply', 'blue_cup.ply')",1.255542,None,inf,inf
+"('tongs.ply', 'red_cylinder_magnetic.ply')",1.235525,None,inf,inf
+"('beans_tin.ply', 'red_cylinder_magnetic.ply')",1.133949,None,inf,inf
+"('red_cylinder_magnetic.ply', 'tongs.ply')",0.6822949,None,inf,inf
+"('red_cylinder_magnetic.ply', 'blue_cup.ply')",1.168735,None,inf,inf
+"('blue_cup.ply', 'beans_tin.ply')",0.9289565,None,inf,inf
+"('tongs.ply', 'blue_cup.ply')",1.468494,None,inf,inf
+"('red_cylinder_magnetic.ply', 'beans_tin.ply')",0.9421849,None,inf,inf
+"('blue_cup.ply', 'red_cylinder_magnetic.ply')",0.9975222,None,inf,inf
+"('beans_tin.ply', 'red_cylinder_magnetic.ply')",1.133949,None,inf,inf
+"('red_cylinder_magnetic.ply', 'blue_cup.ply')",1.168735,None,inf,inf
+"('beans_tin.ply', 'tongs.ply')",0.8202274,None,inf,inf
+"('red_cylinder_magnetic.ply', 'beans_tin.ply')",0.9421849,None,inf,inf
+"('tongs.ply', 'red_cylinder_magnetic.ply')",1.235525,None,inf,inf
+"('red_cylinder_magnetic.ply', 'blue_cup.ply')",1.168735,None,inf,inf
+"('beans_tin.ply', 'red_cylinder_magnetic.ply')",1.133949,None,inf,inf
+"('beans_tin.ply', 'tongs.ply')",0.8202274,None,inf,inf
+"('blue_cup.ply', 'red_cylinder_magnetic.ply')",0.9975222,None,inf,inf
+"('red_cylinder_magnetic.ply', 'tongs.ply')",0.6822949,None,inf,inf
+"('red_cylinder_magnetic.ply', 'beans_tin.ply')",0.9421849,None,inf,inf

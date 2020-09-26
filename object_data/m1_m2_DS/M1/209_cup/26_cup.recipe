@@ -1,0 +1,15 @@
+Cut_begin
+  Torus 2.4 0.5
+  R x 90
+  T -3.4 0 0
+by
+  Cuboid 5.5 8 5.5
+Cut_end
+
+Cut_begin
+  Cuboid 6 8 6
+by
+  Cuboid 5 8 5
+  T 0 0.5 0
+Cut_end
+

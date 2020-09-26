@@ -1,0 +1,1568 @@
+header: 
+  seq: 23972
+  stamp: 
+    secs: 1524857441
+    nsecs: 923070220
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857441
+        nsecs: 923070220
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122682230432
+          y: 0.0806148317125
+          z: 0.892703743629
+        orientation: 
+          x: 0.693303060665
+          y: 0.672572266828
+          z: -0.195304501472
+          w: 0.169804486604
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857441
+        nsecs: 923070220
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189742046742
+          y: 0.0555147830811
+          z: 0.914345716989
+        orientation: 
+          x: 0.665809923983
+          y: 0.691903287533
+          z: -0.192281632059
+          w: 0.202471627147
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857441
+        nsecs: 923070220
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169778998987
+          y: -0.0850500820412
+          z: 0.990728439372
+        orientation: 
+          x: -0.65900802117
+          y: 0.695207054158
+          z: -0.219324140092
+          w: -0.185182346502
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857441
+        nsecs: 923070220
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168082867749
+          y: -0.0880964825861
+          z: 1.00437504426
+        orientation: 
+          x: 0.0417882136067
+          y: 0.968854740471
+          z: -0.243711087928
+          w: 0.0133844197021
+---
+header: 
+  seq: 23973
+  stamp: 
+    secs: 1524857442
+    nsecs:  23262468
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs:  23262468
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.12273242435
+          y: 0.0806597110666
+          z: 0.892740780189
+        orientation: 
+          x: 0.692249178431
+          y: 0.673418640648
+          z: -0.192212909334
+          w: 0.174219995623
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs:  23262468
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189811735058
+          y: 0.0554961234239
+          z: 0.914358062509
+        orientation: 
+          x: 0.658150561742
+          y: 0.701193460445
+          z: -0.195748450763
+          w: 0.191958623489
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs:  23262468
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169877647066
+          y: -0.0849251672626
+          z: 0.991197575022
+        orientation: 
+          x: -0.668213678636
+          y: 0.688472165306
+          z: -0.204770896888
+          w: -0.193818051457
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs:  23262468
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.167802132006
+          y: -0.0882158233206
+          z: 1.00422789024
+        orientation: 
+          x: 0.0433534198492
+          y: 0.969028713515
+          z: -0.24299876447
+          w: 0.00744539035309
+---
+header: 
+  seq: 23974
+  stamp: 
+    secs: 1524857442
+    nsecs: 123767038
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 123767038
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.123161477531
+          y: 0.0804015925085
+          z: 0.892925968141
+        orientation: 
+          x: 0.691471822242
+          y: 0.676401860539
+          z: -0.178177433064
+          w: 0.18055482395
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 123767038
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189840012678
+          y: 0.0555807208573
+          z: 0.914395100541
+        orientation: 
+          x: 0.670589749334
+          y: 0.688464288347
+          z: -0.197616146279
+          w: 0.193065197511
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 123767038
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169864242827
+          y: -0.085083309515
+          z: 0.991123499694
+        orientation: 
+          x: -0.66993176532
+          y: 0.686022217894
+          z: -0.203241049014
+          w: -0.198136373156
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 123767038
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168038260192
+          y: -0.0880710898899
+          z: 1.00411254391
+        orientation: 
+          x: 0.0418394589223
+          y: 0.970417758231
+          z: -0.237579872206
+          w: 0.00972823260183
+---
+header: 
+  seq: 23975
+  stamp: 
+    secs: 1524857442
+    nsecs: 290810475
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 290810475
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.123017785634
+          y: 0.080342674329
+          z: 0.892963004701
+        orientation: 
+          x: 0.690598479232
+          y: 0.67586140981
+          z: -0.180320171251
+          w: 0.183765423984
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 290810475
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189731394067
+          y: 0.0555130664581
+          z: 0.914296334172
+        orientation: 
+          x: 0.66490967985
+          y: 0.693545718973
+          z: -0.188622345959
+          w: 0.203251233555
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 290810475
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169827053392
+          y: -0.0850869661864
+          z: 0.99116053699
+        orientation: 
+          x: -0.67100053041
+          y: 0.684264173003
+          z: -0.210449230563
+          w: -0.193007645159
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 290810475
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.167757454741
+          y: -0.0881209708279
+          z: 1.0045316921
+        orientation: 
+          x: 0.0441833658576
+          y: 0.969695684154
+          z: -0.240278734979
+          w: 0.00205908528794
+---
+header: 
+  seq: 23976
+  stamp: 
+    secs: 1524857442
+    nsecs: 424410721
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 424410721
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122748885166
+          y: 0.0806087059555
+          z: 0.892839547293
+        orientation: 
+          x: 0.69328771265
+          y: 0.676221055539
+          z: -0.181257228431
+          w: 0.170947502692
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 424410721
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189756050338
+          y: 0.0555183221069
+          z: 0.914407446061
+        orientation: 
+          x: 0.667614407178
+          y: 0.690318829883
+          z: -0.195101933676
+          w: 0.199213834643
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 424410721
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169922244586
+          y: -0.0851105287855
+          z: 0.991456833887
+        orientation: 
+          x: -0.671056442586
+          y: 0.686563067604
+          z: -0.20162693951
+          w: -0.194064376764
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 424410721
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168019845898
+          y: -0.087995244581
+          z: 1.00418522917
+        orientation: 
+          x: 0.000655948145855
+          y: 0.970504968602
+          z: -0.241065762701
+          w: -0.00264077711372
+---
+header: 
+  seq: 23977
+  stamp: 
+    secs: 1524857442
+    nsecs: 558081780
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 558081780
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122873364867
+          y: 0.0804993703409
+          z: 0.892827201037
+        orientation: 
+          x: 0.691955749664
+          y: 0.675836448242
+          z: -0.182911367399
+          w: 0.176027746139
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 558081780
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189713722394
+          y: 0.055506799554
+          z: 0.914209914796
+        orientation: 
+          x: 0.665820572638
+          y: 0.692142640752
+          z: -0.191648597267
+          w: 0.20221855768
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 558081780
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169883102547
+          y: -0.0850930449403
+          z: 0.991222266062
+        orientation: 
+          x: -0.669966795577
+          y: 0.684364952716
+          z: -0.20965568054
+          w: -0.197062426494
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 558081780
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168083974719
+          y: -0.0880987324752
+          z: 1.00441254154
+        orientation: 
+          x: 0.0810155352275
+          y: 0.96754152214
+          z: -0.236659677381
+          w: 0.0359455572924
+---
+header: 
+  seq: 23978
+  stamp: 
+    secs: 1524857442
+    nsecs: 658276500
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 658276500
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.12307626892
+          y: 0.0805052372592
+          z: 0.892913621149
+        orientation: 
+          x: 0.689152885277
+          y: 0.677555132894
+          z: -0.176111576098
+          w: 0.187008169254
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 658276500
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189732863579
+          y: 0.05551376019
+          z: 0.914308680428
+        orientation: 
+          x: 0.663722343127
+          y: 0.694505817889
+          z: -0.186927544015
+          w: 0.205407919615
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 658276500
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169821009408
+          y: -0.085274056244
+          z: 0.991407451806
+        orientation: 
+          x: -0.674760688228
+          y: 0.678615201333
+          z: -0.205655943962
+          w: -0.204658385742
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 658276500
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168092939071
+          y: -0.088101839833
+          z: 1.00445004031
+        orientation: 
+          x: 0.0415087971647
+          y: 0.969089618126
+          z: -0.242759910917
+          w: 0.014489908566
+---
+header: 
+  seq: 23979
+  stamp: 
+    secs: 1524857442
+    nsecs: 792253853
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 792253853
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122903065273
+          y: 0.0805449433349
+          z: 0.892876583117
+        orientation: 
+          x: 0.690668107876
+          y: 0.676427842946
+          z: -0.180640921467
+          w: 0.181085050577
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 792253853
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.18976016545
+          y: 0.0555208854285
+          z: 0.914432136365
+        orientation: 
+          x: 0.666475495036
+          y: 0.692402860648
+          z: -0.190490683727
+          w: 0.200254818907
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 792253853
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169844254851
+          y: -0.0851290472496
+          z: 0.99112350043
+        orientation: 
+          x: -0.660057637533
+          y: 0.697087859429
+          z: -0.208584021099
+          w: -0.186775634152
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 792253853
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168018081858
+          y: -0.0879931988907
+          z: 1.00418523138
+        orientation: 
+          x: -0.000231067818169
+          y: 0.972250613151
+          z: -0.233939670922
+          w: 0.00096031502691
+---
+header: 
+  seq: 23980
+  stamp: 
+    secs: 1524857442
+    nsecs: 926391761
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 926391761
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122828120619
+          y: 0.0804978652317
+          z: 0.892802509997
+        orientation: 
+          x: 0.691647618296
+          y: 0.676969377856
+          z: -0.178554363608
+          w: 0.177353806802
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 926391761
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189915250987
+          y: 0.0556652653962
+          z: 0.914175038785
+        orientation: 
+          x: 0.670982469519
+          y: 0.688656498115
+          z: -0.196782898795
+          w: 0.191862565248
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 926391761
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169885042641
+          y: -0.0850925160411
+          z: 0.991234610846
+        orientation: 
+          x: -0.670914416449
+          y: 0.685605530982
+          z: -0.205254884074
+          w: -0.194137410748
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857442
+        nsecs: 926391761
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168094581738
+          y: -0.0880984827876
+          z: 1.00445004404
+        orientation: 
+          x: -0.000217164985569
+          y: 0.973616248104
+          z: -0.228189604761
+          w: 0.000926577493001
+---
+header: 
+  seq: 23981
+  stamp: 
+    secs: 1524857443
+    nsecs:  26844779
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs:  26844779
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122794870149
+          y: 0.0806258605954
+          z: 0.892851893549
+        orientation: 
+          x: 0.689893005984
+          y: 0.675547240897
+          z: -0.183980166567
+          w: 0.183942556036
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs:  26844779
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189778471986
+          y: 0.0555255767188
+          z: 0.914518556477
+        orientation: 
+          x: 0.663373989664
+          y: 0.691994530023
+          z: -0.193688104529
+          w: 0.208718562711
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs:  26844779
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169853543978
+          y: -0.0851043560255
+          z: 0.991345721998
+        orientation: 
+          x: -0.668066790995
+          y: 0.685567668149
+          z: -0.203984034402
+          w: -0.205120084016
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs:  26844779
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.167836092695
+          y: -0.0882329298537
+          z: 1.00441776348
+        orientation: 
+          x: 0.0451985480876
+          y: 0.968390871354
+          z: -0.245305788796
+          w: 0.00113203922437
+---
+header: 
+  seq: 23982
+  stamp: 
+    secs: 1524857443
+    nsecs: 161241836
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 161241836
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122970989641
+          y: 0.0805042497354
+          z: 0.892913620413
+        orientation: 
+          x: 0.689481354017
+          y: 0.67486182527
+          z: -0.184059300683
+          w: 0.187880688439
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 161241836
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189749254121
+          y: 0.0555177343388
+          z: 0.914382754285
+        orientation: 
+          x: 0.66276405064
+          y: 0.692943791361
+          z: -0.191617812722
+          w: 0.209416639836
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 161241836
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169741703588
+          y: -0.0851264373388
+          z: 0.990802511757
+        orientation: 
+          x: -0.677059108968
+          y: 0.678632492765
+          z: -0.205310238868
+          w: -0.197222231359
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 161241836
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168057653308
+          y: -0.0880829113536
+          z: 1.00422504544
+        orientation: 
+          x: 0.0438508690037
+          y: 0.967824520079
+          z: -0.247657761336
+          w: 0.00764413970696
+---
+header: 
+  seq: 23983
+  stamp: 
+    secs: 1524857443
+    nsecs: 296201809
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 296201809
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.12306078413
+          y: 0.0803283887145
+          z: 0.892827202508
+        orientation: 
+          x: 0.689349153086
+          y: 0.675077059756
+          z: -0.185723000956
+          w: 0.185945356077
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 296201809
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189725021337
+          y: 0.0555098213163
+          z: 0.914271643132
+        orientation: 
+          x: 0.660823798468
+          y: 0.693377291285
+          z: -0.19166611942
+          w: 0.214018545867
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 296201809
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169896506417
+          y: -0.0851586768289
+          z: 0.991444489838
+        orientation: 
+          x: -0.669404518944
+          y: 0.685221446189
+          z: -0.206079412301
+          w: -0.199750933729
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 296201809
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168037517939
+          y: -0.0880048743185
+          z: 1.00429634106
+        orientation: 
+          x: 0.000671621858885
+          y: 0.969800802719
+          z: -0.243882798277
+          w: -0.00267070664062
+---
+header: 
+  seq: 23984
+  stamp: 
+    secs: 1524857443
+    nsecs: 396828582
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 396828582
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122782453711
+          y: 0.0804948317416
+          z: 0.892777818956
+        orientation: 
+          x: 0.691322317906
+          y: 0.676228157063
+          z: -0.181424332348
+          w: 0.178533313398
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 396828582
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189759283706
+          y: 0.0555202151982
+          z: 0.914419791581
+        orientation: 
+          x: 0.672560721324
+          y: 0.689386517235
+          z: -0.19347392871
+          w: 0.187019103025
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 396828582
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.16988548986
+          y: -0.0850882361884
+          z: 0.991234609374
+        orientation: 
+          x: -0.673403205519
+          y: 0.6879186651
+          z: -0.197077036498
+          w: -0.185625091755
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 396828582
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168013390568
+          y: -0.0879933750372
+          z: 1.00414819261
+        orientation: 
+          x: 0.0448575308774
+          y: 0.967021207297
+          z: -0.250641549518
+          w: 0.00604981125187
+---
+header: 
+  seq: 23985
+  stamp: 
+    secs: 1524857443
+    nsecs: 531248674
+  frame_id: ''
+markers: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 531248674
+      frame_id: /camera_rgb_optical_frame
+    id: 3
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.122964029143
+          y: 0.0805361837517
+          z: 0.893012385309
+        orientation: 
+          x: 0.690372575931
+          y: 0.677668740156
+          z: -0.175831583494
+          w: 0.182302055018
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 531248674
+      frame_id: /camera_rgb_optical_frame
+    id: 4
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.189840307022
+          y: 0.0555036249628
+          z: 0.914506210221
+        orientation: 
+          x: 0.667057483295
+          y: 0.690979927714
+          z: -0.193788641091
+          w: 0.200067528752
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 531248674
+      frame_id: /camera_rgb_optical_frame
+    id: 2
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: 0.169889310812
+          y: -0.0849317045491
+          z: 0.991271648142
+        orientation: 
+          x: -0.676594913946
+          y: 0.679857314577
+          z: -0.201029524486
+          w: -0.198998704829
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1524857443
+        nsecs: 531248674
+      frame_id: /camera_rgb_optical_frame
+    id: 1
+    confidence: 0
+    pose: 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 0
+          nsecs:         0
+        frame_id: ''
+      pose: 
+        position: 
+          x: -0.168070145779
+          y: -0.0880214878254
+          z: 1.00448152533
+        orientation: 
+          x: 0.00184979656281
+          y: 0.969542591024
+          z: -0.244806192302
+          w: -0.00732602574312
+---

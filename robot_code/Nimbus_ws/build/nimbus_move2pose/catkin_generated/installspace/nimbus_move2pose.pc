@@ -1,0 +1,8 @@
+prefix=/home/lnair3/Nimbus_ws/install
+
+Name: nimbus_move2pose
+Description: Description of nimbus_move2pose
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/lnair3/Nimbus_ws/install/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

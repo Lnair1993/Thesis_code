@@ -1,0 +1,14 @@
+action_part,grasp_part,attachment,geo_score,att_score
+wood_wheel.ply,wooden_screw.ply,None,4.012825e-01,Inf
+wood_wheel.ply,tongs.ply,grasp,4.418861e-01,4.401958e-02
+wood_wheel.ply,tongs.ply,grasp,4.418861e-01,4.260740e-02
+red_bowl.ply,wooden_screw.ply,None,4.689575e-01,Inf
+red_bowl.ply,tongs.ply,grasp,4.780977e-01,3.959578e-02
+wooden_screw.ply,tongs.ply,grasp,7.846016e-01,9.716045e-03
+wood_wheel.ply,red_bowl.ply,None,8.679579e-01,Inf
+red_bowl.ply,wood_wheel.ply,None,9.443828e-01,Inf
+tongs.ply,wooden_screw.ply,None,1.095753e+00,Inf
+wooden_screw.ply,red_bowl.ply,None,1.207645e+00,Inf
+wooden_screw.ply,wood_wheel.ply,None,1.215163e+00,Inf
+tongs.ply,red_bowl.ply,None,1.475516e+00,Inf
+tongs.ply,wood_wheel.ply,None,1.484725e+00,Inf

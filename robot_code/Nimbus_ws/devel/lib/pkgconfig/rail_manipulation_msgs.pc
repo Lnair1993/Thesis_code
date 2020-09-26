@@ -1,0 +1,8 @@
+prefix=/home/lnair3/Nimbus_ws/devel
+
+Name: rail_manipulation_msgs
+Description: Description of rail_manipulation_msgs
+Version: 0.0.11
+Cflags: -I/home/lnair3/Nimbus_ws/devel/include
+Libs: -L/home/lnair3/Nimbus_ws/devel/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs visualization_msgs

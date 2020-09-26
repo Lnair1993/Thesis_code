@@ -1,0 +1,9 @@
+Cylinder 1 20
+R z 90
+T 13.9 0 0
+Cut_begin
+  Cuboid 8 6 8
+by
+  Cuboid 7 6 7
+  T 0 1 0
+Cut_end

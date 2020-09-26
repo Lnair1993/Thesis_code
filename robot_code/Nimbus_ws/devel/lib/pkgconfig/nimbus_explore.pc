@@ -1,0 +1,8 @@
+prefix=/home/lnair3/Nimbus_ws/devel
+
+Name: nimbus_explore
+Description: Description of nimbus_explore
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/lnair3/Nimbus_ws/devel/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

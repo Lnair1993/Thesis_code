@@ -1,0 +1,24 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('purple_foam.ply', 'tongs.ply')",0.7020033,grasp,0.03600955,0.03600955
+"('red_flat_piece_2mag.ply', 'tongs.ply')",0.3648049,grasp,0.1130937,0.1130937
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('purple_foam.ply', 'red_foam.ply')",1.179816,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf
+"('red_foam.ply', 'tongs.ply')",0.7356542,None,inf,inf
+"('tongs.ply', 'red_flat_piece_2mag.ply')",1.942555,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf
+"('red_foam.ply', 'purple_foam.ply')",1.079143,None,inf,inf
+"('tongs.ply', 'red_flat_piece_2mag.ply')",1.942555,None,inf,inf
+"('tongs.ply', 'red_flat_piece_2mag.ply')",1.942555,None,inf,inf
+"('tongs.ply', 'purple_foam.ply')",1.460555,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.911809,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.8452015,None,inf,inf
+"('red_foam.ply', 'tongs.ply')",0.7356542,None,inf,inf
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.8452015,None,inf,inf
+"('tongs.ply', 'red_foam.ply')",1.497382,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.911809,None,inf,inf
+"('red_flat_piece_2mag.ply', 'red_foam.ply')",0.8452015,None,inf,inf
+"('red_foam.ply', 'red_flat_piece_2mag.ply')",1.911809,None,inf,inf

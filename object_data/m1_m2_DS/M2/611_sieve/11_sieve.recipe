@@ -1,0 +1,18 @@
+# Head
+Multi_begin
+  Torus 2 0.1
+  Torus 1.5 0.1
+  Torus 1.0 0.1
+  Torus 0.5 0.1
+  Cylinder 0.1 4
+  R z 90
+
+  Cylinder 0.1 4
+  R x 90
+  Cut_begin
+    Cylinder 2.4 1
+  by
+    Cylinder 2 1.1
+  Cut_end
+Multi_end
+T 0 0 -1.96

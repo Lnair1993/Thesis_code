@@ -1,0 +1,24 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('coin.ply', 'pliers.ply')",0.8759885,grasp,0.01030413,0.01030413
+"('coin.ply', 'pliers.ply')",0.8759885,grasp,0.02250219,0.02250219
+"('purple_foam.ply', 'pliers.ply')",1.27192,grasp,0.03600957,0.03600957
+"('red_flat_piece_2mag.ply', 'pliers.ply')",0.646405,grasp,0.1130934,0.1130934
+"('pliers.ply', 'purple_foam.ply')",0.9273392,None,inf,inf
+"('purple_foam.ply', 'coin.ply')",1.847853,None,inf,inf
+"('pliers.ply', 'red_flat_piece_2mag.ply')",1.52745,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf
+"('red_flat_piece_2mag.ply', 'coin.ply')",0.9836115,None,inf,inf
+"('pliers.ply', 'red_flat_piece_2mag.ply')",1.52745,None,inf,inf
+"('coin.ply', 'purple_foam.ply')",0.9284389,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf
+"('coin.ply', 'red_flat_piece_2mag.ply')",1.211271,None,inf,inf
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('coin.ply', 'red_flat_piece_2mag.ply')",1.211271,None,inf,inf
+"('red_flat_piece_2mag.ply', 'coin.ply')",0.9836115,None,inf,inf
+"('red_flat_piece_2mag.ply', 'purple_foam.ply')",0.70536,None,inf,inf
+"('red_flat_piece_2mag.ply', 'coin.ply')",0.9836115,None,inf,inf
+"('pliers.ply', 'red_flat_piece_2mag.ply')",1.52745,None,inf,inf
+"('coin.ply', 'red_flat_piece_2mag.ply')",1.211271,None,inf,inf
+"('pliers.ply', 'coin.ply')",1.510187,None,inf,inf
+"('purple_foam.ply', 'red_flat_piece_2mag.ply')",1.859673,None,inf,inf

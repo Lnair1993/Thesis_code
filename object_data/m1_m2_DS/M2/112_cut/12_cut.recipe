@@ -1,0 +1,13 @@
+Cylinder 2.5 0.1
+T 0 0.2 0
+Cylinder 2.5 0.1
+T 0 0.6 0
+Cylinder 2.5 0.1
+T 0 -0.2 0
+Cylinder 2.5 0.1
+T 0 -0.6 0
+
+Wedge 6 2 4 2 3
+R y 90
+R z -90
+T 2 0 0

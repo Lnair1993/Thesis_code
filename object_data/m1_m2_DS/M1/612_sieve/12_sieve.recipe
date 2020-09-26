@@ -1,0 +1,27 @@
+# Handle
+Cylinder 0.35 7
+R x 90
+T 0 0 3.5
+
+# Head
+Multi_begin
+  Cylinder 0.2 5
+  R x 90
+  R y 20
+  T -1 0 0
+  Cylinder 0.2 5
+  R x 90
+  R y -20
+  T 1 0 0
+  Torus 5 0.2 70 110
+  T 0 0 2.5
+  R y 180
+  Torus 3.5 0.2 70 110
+  T 0 0 2.5
+  R y 180
+  Torus 2 0.2 70 110
+  T 0 0 2.5
+  R y 180
+
+Multi_end
+T 0 0 -1.7

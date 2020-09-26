@@ -1,0 +1,8 @@
+Cuboid 5 5 5
+T 12 0 0
+Cuboid 5 5 5
+T -12 0 0
+
+Cylinder 0.8 20
+R z 90
+

@@ -1,0 +1,49 @@
+# Handle
+Torus 1.5 0.14 60 180
+R x -90
+T 2.7 0 0
+
+
+
+# Head
+Cut_begin
+  Cylinder 1.3 0.3
+by
+  Cylinder 0.15 0.4
+  Cylinder 0.15 0.4 
+  T 0.5 0 0
+  Cylinder 0.15 0.4 
+  T 0 0 -0.5
+  Cylinder 0.15 0.4 
+  T -0.5 0 0
+  Cylinder 0.15 0.4 
+  T 0 0 0.5
+  Cylinder 0.15 0.4 
+  T 0 0 0.5
+  Cuboid 0.30 0.4 0.5
+  R y 45
+  T 0.6 0 0.6
+  Cuboid 0.30 0.4 0.5
+  R y 45
+  T -0.6 0 -0.6
+  Cuboid 0.30 0.4 0.5
+  R y -45
+  T -0.6 0 0.6
+  Cuboid 0.30 0.4 0.5
+  R y -45
+  T 0.6 0 -0.6
+  Cuboid 0.20 0.4 0.5
+  R y 90
+  T 0 0 -1
+  Cuboid 0.20 0.4 0.5
+  R y 90
+  T 0 0 1
+  Cuboid 0.20 0.4 0.5
+  T 1 0 0
+  Cuboid 0.20 0.4 0.5
+  T -1 0 0
+  Sphere 4
+  T 0 4 0
+Cut_end
+R y 45
+PointDensity 1000

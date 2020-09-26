@@ -1,0 +1,11 @@
+<launch>
+
+  <!-- Motion Planning Params -->
+  <arg name="motion_planning" default="true" />
+
+  <include file="$(find nimbus_bringup)/launch/nimbus_bringup.launch" />
+
+  <node name="nimbus_test" pkg="nimbus_explore" type="nimbus_test_scoop_singleTry.py" respawn="false" output="screen">
+  </node>
+
+</launch>

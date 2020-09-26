@@ -1,0 +1,7 @@
+Cuboid 8 3 0.1
+
+Cylinder 0.5 4
+T 4 1.5 0
+
+Cylinder 0.5 4
+T -4 1.5 0

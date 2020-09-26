@@ -1,0 +1,28 @@
+Multi_begin
+  Cylinder 1 10
+  R z 80
+  T 4.7 0 0
+  Cylinder 1 10
+  R z -80
+  T -4.7 0 0
+  Cylinder 1 6
+  T 0 3 0
+  Cuboid  2 2 20
+  T 0 5 0
+Multi_end
+
+Cut_begin
+  Cylinder 4 6
+by
+  Cylinder 3 6
+  T 0 1 0
+Cut_end
+T -13.4 -2 0
+
+Cut_begin
+  Cylinder 4 6
+by
+  Cylinder 3 6
+  T 0 1 0
+Cut_end
+T 13.4 -2 0

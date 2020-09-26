@@ -1,0 +1,8 @@
+Inter_begin
+  Sphere 3.5
+  Cylinder 3 6
+Inter_end
+R z -90
+Cylinder 1 15
+R z 90
+T 8 0 0

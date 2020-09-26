@@ -1,0 +1,22 @@
+Multi_begin
+  Cuboid 0.5 1 10
+  Inter_begin
+    Cuboid 0.5 2 2
+    Cuboid 2 2 2
+    R x 45    
+    T 0 0 1
+  Inter_end
+  T 0 0 4.8
+Multi_end
+
+# Fork tips
+Cuboid 0.3 0.3 3
+T 0 0.3 6.9 
+Cuboid 0.3 0.3 3
+T 0 -0.3 6.9  
+Cuboid 0.3 0.3 3
+T 0 -0.8 6.9  
+Cuboid 0.3 0.3 3
+T 0 +0.8 6.9  
+
+PointDensity 1000

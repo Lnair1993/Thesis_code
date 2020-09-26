@@ -1,0 +1,16 @@
+Cut_begin
+  Torus 1.8 0.3
+  R x 90
+  T -3.4 0 0
+by
+  Cylinder 1.9 5
+Cut_end
+
+
+Cut_begin
+  Wedge 5 5 4 4 5
+by
+  Cylinder 1.8 5
+  T 0 0.2 0
+Cut_end
+

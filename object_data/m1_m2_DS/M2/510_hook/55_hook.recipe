@@ -1,0 +1,10 @@
+Torus 10 0.8 180 240
+R x 90
+
+Torus 10 0.8 180 240
+R x 90
+RC x 60
+
+Cylinder 1.2 20
+R z 90
+T -1 0 0

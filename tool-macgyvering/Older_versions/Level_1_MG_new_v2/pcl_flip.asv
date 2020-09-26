@@ -1,0 +1,18 @@
+% Flip point cloud about its mean point
+
+function flipped_pcl = pcl_flip(pcl)
+    %Move pcl to origin
+    %Rotate by 180 degree
+    % Move back to its original mean
+    
+    pcl_mean = mean(pcl.Location);
+    tform = makehgtform('translate', -pcl_mean);
+    tform = affine3d(tform');
+    pcl_tf = pctransform(pcl, tform);
+    
+    %Rotate 180 degrees about the Z axis
+    tform_grasp = makehgtform('zrotate', pi);
+    tform_grasp = affine3d(tform_grasp');
+    grasp_object = pctransform(grasp_object, tform_grasp);
+    
+end

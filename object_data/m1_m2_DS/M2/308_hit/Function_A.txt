@@ -1,0 +1,7 @@
+Function	hit
+Part_1	head
+Part_2	head
+Part_3	head
+Part_4	head
+Part_5	handle
+

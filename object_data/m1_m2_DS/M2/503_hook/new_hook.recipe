@@ -1,0 +1,15 @@
+
+Cylinder 2 40
+Torus 10 1 60 130
+R x 90
+T 6 -8 0
+
+Torus 10 1 60 130
+R x 90
+T 6 -8 0
+RC y 120
+
+Torus 10 1 60 130
+R x 90
+T 6 -8 0
+RC y 240

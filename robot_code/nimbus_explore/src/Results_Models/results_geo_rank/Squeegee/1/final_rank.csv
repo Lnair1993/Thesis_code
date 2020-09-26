@@ -1,0 +1,13 @@
+obj_combo,geoscore,att_type,att_score,material_score,total_score
+"('yellow_foam.ply', 'screwdriver_large.ply')",0.8732569,pierce,0.005621085,0,0.878877985
+"('red_bowl.ply', 'wood_wheel.ply')",0.8452755,None,inf,0,inf
+"('wood_wheel.ply', 'screwdriver_large.ply')",1.019149,pierce,0.005621085,0,inf
+"('wood_wheel.ply', 'red_bowl.ply')",0.7952715,None,inf,0,inf
+"('screwdriver_large.ply', 'yellow_foam.ply')",0.8220191,None,inf,0,inf
+"('screwdriver_large.ply', 'wood_wheel.ply')",0.8160714,None,inf,0,inf
+"('yellow_foam.ply', 'wood_wheel.ply')",0.7131439,None,inf,0,inf
+"('red_bowl.ply', 'screwdriver_large.ply')",1.026254,pierce,0.005621088,0,inf
+"('red_bowl.ply', 'yellow_foam.ply')",0.9978818,None,inf,0,inf
+"('yellow_foam.ply', 'red_bowl.ply')",0.6768701,None,inf,0,inf
+"('screwdriver_large.ply', 'red_bowl.ply')",0.7591227,None,inf,0,inf
+"('wood_wheel.ply', 'yellow_foam.ply')",0.9845425,None,inf,0,inf

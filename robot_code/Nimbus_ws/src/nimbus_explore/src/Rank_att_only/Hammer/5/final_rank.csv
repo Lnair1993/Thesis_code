@@ -1,0 +1,18 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('coin.ply', 'screwdriver_large.ply')",1.363629,pierce,0.0001436591,0.0001436591
+"('screwdriver_large.ply', 'coin.ply')",1.072791,None,inf,inf
+"('wood_long_endPoint.ply', 'coin.ply')",1.03808,None,inf,inf
+"('wood_long_endPoint.ply', 'screwdriver_large.ply')",1.196649,pierce,0.0001436655,inf
+"('purple_foam.ply', 'screwdriver_large.ply')",0.8139997,pierce,0.0001436684,inf
+"('screwdriver_large.ply', 'purple_foam.ply')",1.138153,None,inf,inf
+"('purple_foam.ply', 'wood_long_endPoint.ply')",0.608166,None,inf,inf
+"('wood_long_endPoint.ply', 'purple_foam.ply')",1.501261,None,inf,inf
+"('coin.ply', 'wood_long_endPoint.ply')",1.242074,None,inf,inf
+"('screwdriver_large.ply', 'wood_long_endPoint.ply')",0.6901336,None,inf,inf
+"('wood_long_endPoint.ply', 'purple_foam.ply')",1.501261,None,inf,inf
+"('purple_foam.ply', 'coin.ply')",1.124888,None,inf,inf
+"('coin.ply', 'purple_foam.ply')",1.353967,None,inf,inf
+"('wood_long_endPoint.ply', 'coin.ply')",1.03808,None,inf,inf
+"('coin.ply', 'wood_long_endPoint.ply')",1.242074,None,inf,inf
+"('purple_foam.ply', 'wood_long_endPoint.ply')",0.608166,None,inf,inf
+"('screwdriver_large.ply', 'wood_long_endPoint.ply')",0.6901336,None,inf,inf

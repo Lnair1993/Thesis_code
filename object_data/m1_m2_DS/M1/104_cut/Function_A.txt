@@ -1,0 +1,3 @@
+Function	cut
+Part_1	blade
+Part_2	handle

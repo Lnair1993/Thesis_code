@@ -1,0 +1,11 @@
+Cut_begin
+  Cone 1 30
+by
+  Cuboid 2 10 2
+  T 0 26 0
+Cut_end
+
+Cuboid 3 12 3
+T 0 -5.9 0
+
+

@@ -1,0 +1,18 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('wood_short_midPoint.ply', 'pliers.ply')",58.31848,grasp,0.2110411,0.2110411
+"('wood_short_midPoint.ply', 'tongs.ply')",58.43032,grasp,0.2457892,0.2457892
+"('pliers.ply', 'tongs.ply')",58.58233,grasp,0.286325,0.286325
+"('red_flat_piece_1mag.ply', 'pliers.ply')",58.41876,grasp,0.29337,0.29337
+"('red_flat_piece_1mag.ply', 'wood_short_midPoint.ply')",58.65077,magnetic,0.2980672,0.2980672
+"('wood_short_midPoint.ply', 'red_flat_piece_1mag.ply')",59.04048,magnetic,0.3024778,0.3024778
+"('red_flat_piece_1mag.ply', 'tongs.ply')",58.8503,grasp,0.3281181,0.3281181
+"('tongs.ply', 'red_flat_piece_1mag.ply')",54.81574,None,inf,inf
+"('tongs.ply', 'wood_short_midPoint.ply')",54.25674,None,inf,inf
+"('pliers.ply', 'wood_short_midPoint.ply')",58.55308,None,inf,inf
+"('tongs.ply', 'pliers.ply')",54.16574,None,inf,inf
+"('tongs.ply', 'red_flat_piece_1mag.ply')",54.81574,None,inf,inf
+"('tongs.ply', 'wood_short_midPoint.ply')",54.25674,None,inf,inf
+"('pliers.ply', 'wood_short_midPoint.ply')",58.55308,None,inf,inf
+"('pliers.ply', 'red_flat_piece_1mag.ply')",59.06111,None,inf,inf
+"('tongs.ply', 'pliers.ply')",54.16574,None,inf,inf
+"('pliers.ply', 'red_flat_piece_1mag.ply')",59.06111,None,inf,inf

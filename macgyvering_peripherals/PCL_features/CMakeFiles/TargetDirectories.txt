@@ -1,0 +1,2 @@
+/home/lnair3/PCL_features/CMakeFiles/shotA_compute.dir
+/home/lnair3/PCL_features/CMakeFiles/shotC_compute.dir

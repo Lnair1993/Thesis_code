@@ -1,0 +1,22 @@
+# Handle
+Cylinder 0.3 5
+R x 90
+T 0 0 2.5
+T 0 -1.8 0.9
+
+# Head
+Multi_begin
+  Torus 2 0.2 50 120
+  R x 90
+  R y 90
+  Torus 2 0.2 50 120
+  R x 90
+  R y 90
+  T 1 0 0
+  Torus 2 0.2 50 120
+  R x 90
+  R y 90
+  T -1 0 0
+  Cuboid 2 0.4 0.4
+  T 0 -1.8 0.9
+Multi_end

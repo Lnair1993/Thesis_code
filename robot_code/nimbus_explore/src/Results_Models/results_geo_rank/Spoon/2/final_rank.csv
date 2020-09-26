@@ -1,0 +1,25 @@
+obj_combo,geoscore,att_type,att_score,material_score,total_score
+"('steel_bowl_small.ply', 'wood_long_midPoint.ply')",0.2822337,magnetic,0.09962168,0,0.38185537999999997
+"('steel_bowl_small.ply', 'wood_long_midPoint.ply')",0.2822337,magnetic,0.1524993,0,0.434733
+"('steel_bowl_small.ply', 'wood_long_endPoint.ply')",0.5290707,magnetic,0.003869027,0,0.532939727
+"('steel_bowl_small.ply', 'wood_long_endPoint.ply')",0.5290707,magnetic,0.0567469,0,0.5858176
+"('wood_long_endPoint.ply', 'wood_long_midPoint.ply')",0.9106696,magnetic,0.2854838,0,1.1961534
+"('wood_long_midPoint.ply', 'wood_long_endPoint.ply')",1.193348,magnetic,0.08035096,0,1.2736989600000002
+"('wood_long_midPoint.ply', 'steel_bowl_small.ply')",1.500504,magnetic,0.08035135,0,1.58085535
+"('wood_long_midPoint.ply', 'steel_bowl_small.ply')",1.500504,magnetic,0.1335854,0,1.6340894000000001
+"('wood_long_endPoint.ply', 'steel_bowl_small.ply')",1.54869,magnetic,0.1897318,0,1.7384217999999998
+"('wood_long_endPoint.ply', 'steel_bowl_small.ply')",1.54869,magnetic,0.2429659,0,1.7916558999999999
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,0,inf
+"('wood_long_endPoint.ply', 'steel_bowl.ply')",1.579065,None,inf,0,inf
+"('steel_bowl.ply', 'wood_long_endPoint.ply')",0.6105155,None,inf,0,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,0,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,0,inf
+"('steel_bowl.ply', 'wood_long_midPoint.ply')",0.33469,None,inf,0,inf
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,0,inf
+"('wood_long_midPoint.ply', 'steel_bowl.ply')",1.522827,None,inf,0,inf
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,0,inf
+"('wood_long_endPoint.ply', 'steel_bowl.ply')",1.579065,None,inf,0,inf
+"('steel_bowl.ply', 'wood_long_endPoint.ply')",0.6105155,None,inf,0,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,0,inf
+"('steel_bowl.ply', 'wood_long_midPoint.ply')",0.33469,None,inf,0,inf
+"('wood_long_midPoint.ply', 'steel_bowl.ply')",1.522827,None,inf,0,inf

@@ -1,0 +1,8 @@
+prefix=/home/lnair3/Nimbus_ws/install
+
+Name: rail_segmentation
+Description: Description of rail_segmentation
+Version: 0.1.10
+Cflags: -I/home/lnair3/Nimbus_ws/install/include
+Libs: -L/home/lnair3/Nimbus_ws/install/lib 
+Requires: 

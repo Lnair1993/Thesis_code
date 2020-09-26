@@ -1,0 +1,10 @@
+Cuboid 15 2 2
+T 11.38 0 0
+Cut_begin
+  Sphere 4
+by
+  Cylinder 2 8
+  T 0 2 0  
+  Cylinder 5 8
+  T 0 -7 0  
+Cut_end

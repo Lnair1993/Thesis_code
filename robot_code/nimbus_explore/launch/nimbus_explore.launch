@@ -1,0 +1,12 @@
+<launch>
+
+  <!-- Motion Planning Params -->
+  <arg name="motion_planning" default="true" />
+
+  <include file="$(find nimbus_bringup)/launch/nimbus_bringup.launch" />
+
+  <!-- Move to Pose -->
+  <node name="nimbus_explore" pkg="nimbus_explore" type="nimbus_explore" respawn="false" output="screen"> 
+  </node>
+
+</launch>

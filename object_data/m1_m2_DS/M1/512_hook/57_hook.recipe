@@ -1,0 +1,6 @@
+Torus 10 0.7 0 50
+R x 90
+
+Cylinder 1 20
+R z 90
+T 1 0 0

@@ -1,0 +1,64 @@
+import matlab.engine
+import time
+import NativeLib
+
+NativeLib.sense
+
+part_location = '/home/lnair3/Github_files/lnair3/Macgyvering/Level_1_MG_v3/Segment_parts' #Location of candidate point clouds
+eng = matlab.engine.start_matlab()
+
+# PHASE 1: (REFERENCE TOOL ID, SEGMENTATION): RETRIEVE DESIRED OBJECT FILES BASED ON MISSING ACTION/EFFECT AND SEGMENT IT - TODO LATER!!
+input_tool_full = 'hammer_8_3dwh.ply' 
+input_action = 'hammer_8_3dwh1.ply'
+input_grasp = 'hammer_8_3dwh2.ply'
+
+#input_tool_full = 'spoon_1_3dwh.ply'
+#input_action = 'spoon_1_3dwh2.ply'
+#input_grasp = 'spoon_1_3dwh1.ply'
+
+#input_tool_full = 'spatula_1_3dwh.ply'
+#input_action = 'spatula_1_3dwh2.ply'
+#input_grasp = 'spatula_1_3dwh1.ply'
+
+# INTERIM PHASE: RETRIEVE OBJECT POSITIONS AND IF FLAG IS SET, RETRIEVE ATTACHMENT POINT LOCATIONS - SAVE POINT CLOUDS TO PARTS LOCATION - Save it all onto file AND directly return here
+
+start = time.time()
+# PHASE 2,3 (SQ FITTING + INTERNAL EVAL): SQ FITTING AND RETURN ERRORS, OBJECTS TO USE, IF FLAG SET, ATTACHMENT POINT LOCATIONS 
+
+#Ellipsoids = 0
+#Hyperboloids = 1
+#Toroids = 2
+#Paraboloids = 3 
+
+action_SQ = 0 #NEED TO GET THIS AUTOMATICALLY FROM THE FITTING
+grasp_SQ = 0
+
+action_scale, grasp_scale = eng.SQ_fit_mod(input_action, input_grasp, action_SQ, grasp_SQ, nargout = 2)
+
+#ranked_score_new, action_part_idx, grasp_part_idx, action_att_points, grasp_att_points = eng.MG_lvl_1(input_tool_full, input_action, input_grasp, action_SQ, grasp_SQ, nargout = 5)
+ranked_score_new, action_part_idx, grasp_part_idx, action_att_points, grasp_att_points = eng.int_eval(input_tool_full, part_location, action_scale, grasp_scale, action_SQ, grasp_SQ, nargout = 5)
+
+
+end = time.time()
+
+print "Final errors: " + str(ranked_score_new) + "\n"
+print "Action part indices: " + str(action_part_idx) + "\n"
+print "Grasp part indices: " + str(grasp_part_idx) + "\n"
+print "Action part attachments: " + str(action_att_points) + "\n"
+print "Grasp part attachments: " + str(grasp_att_points) + "\n"
+print "Total computation time: " + str(end-start) + " secs" + "\n"
+
+print "*****************************************************"
+
+#Call the plane segmentation function to return the object positions file - also add a verification step so that the user can verify if necessary, the quality of point cloud seg
+#Create a dict corresponding to object positions, ID, attachment point locations
+#Call tf_listener for object point locations in robot base frame
+#Pass the output goal locations to nimbus_move2pose
+#If failed Macgyver testing, call next object location
+
+#Later step: Call the AR tag retrieval function for retrieving the positions of the AR tags along with the corresponding object point cloud locations
+
+# INTERIM PHASE: CALL tf_listener FOR GETTING NECESSARY OBJECT POSITIONS IN THE ROBOT BASE FRAME FOR MANIPULATION
+
+# PHASE 4 (EXTERNAL EVAL): CALL NIMBUS_MOVE2POSE WITH THE FIRST OBJECT - RECORD SUCCESS, IF NOT, REPEAT PHASE 3, 4 WITH NEXT BEST OBJECT - You can take user input at this stage to see if each
+#run was successful. If not, you can move to next iteration of the loop

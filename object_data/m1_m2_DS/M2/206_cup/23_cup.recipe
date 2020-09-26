@@ -1,0 +1,60 @@
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+  RC y 60
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+  RC y 120
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+  RC y 180
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+  RC y 240
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+  RC y 300
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Cylinder 2 6
+by
+  Cylinder 1.7 6
+  T 0 0.2 0
+Cut_end
+

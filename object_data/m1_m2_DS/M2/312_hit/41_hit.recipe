@@ -1,0 +1,5 @@
+Cylinder 3 6
+R z 90
+Cuboid 1 15 1
+R z 90
+T 7 0 0

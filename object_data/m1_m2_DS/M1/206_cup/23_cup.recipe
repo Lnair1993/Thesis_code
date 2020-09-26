@@ -1,0 +1,15 @@
+Cut_begin
+  Torus 2 0.4
+  R x 90
+  T -2.4 0 0
+by
+  Cylinder 1.9 12
+Cut_end
+
+Cut_begin
+  Cylinder 2 12
+by
+  Cylinder 1.8 12
+  T 0 0.2 0
+Cut_end
+

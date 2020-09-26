@@ -1,0 +1,8 @@
+prefix=/home/lnair3/Nimbus_ws/install
+
+Name: nimbus_description
+Description: Description of nimbus_description
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/lnair3/Nimbus_ws/install/lib 
+Requires: 

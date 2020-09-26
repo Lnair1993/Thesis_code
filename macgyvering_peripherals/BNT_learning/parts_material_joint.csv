@@ -1,0 +1,67 @@
+NAME,MATERIAL,JOINT,CONTACT
+fyingpan_4_3dwh1.ply,plastic,fixed,flat
+mug_3_3dwh1.ply,plastic,fixed,flat
+chineseknife_2_3dwh1.ply,metal,fixed,"flat, line"
+plate_1_3dwh1.ply,plastic,fixed,flat
+rod1.ply,metal,fixed,flat
+bowl_1_3dwh1.ply,metal,fixed,flat
+bottle_1_3dwh2.ply,plastic,fixed,flat
+screwdriver_3_seg2.ply,metal,fixed,point
+kitchenknife_5_3dwh1.ply,plastic,fixed,flat
+coin1.ply,metal,fixed,flat
+tablefork_19_3dwh1.ply,metal,fixed,flat
+spoon_1_3dwh1.ply,plastic,fixed,line
+chopstick_5_3dwh1.ply,wood,fixed,point
+spoon_4_3dwh1.ply,metal,fixed,flat
+kitchenknife_5_3dwh3.ply,metal,fixed,"point, line, flat"
+spatula_1_3dwh1.ply,plastic,fixed,"flat, line"
+metal_bowl_small1.ply,metal,fixed,flat
+chopstick_2_3dwh1.ply,wood,fixed,point
+mug_1_3dwh2.ply,metal,fixed,flat
+tablefork_13_3dwh1.ply,plastic,fixed,flat
+pen_1_3dwh2.ply,metal,fixed,point
+meshspatula_1_3dwh2.ply,wood,fixed,"flat, line"
+bottle_1_3dwh1.ply,plastic,fixed,flat
+meshspatula_1_3dwh1.ply,wood,fixed,"line, flat"
+ladle_1_3dwh2.ply,plastic,fixed,flat
+fyingpan_4_3dwh2.ply,metal,fixed,flat
+bottle_8_3dwh2.ply,plastic,fixed,flat
+pen_1_3dwh1.ply,metal,fixed,point
+chineseknife_2_3dwh2.ply,wood,fixed,flat
+chopstick_1_3dwh1.ply,wood,fixed,point
+spatula_1_3dwh2.ply,plastic,fixed,"flat, line"
+ladle_1_3dwh1.ply,plastic,fixed,flat
+breadknife_1_3dwh1.ply,plastic,fixed,flat
+fyingpan_3_3dwh1.ply,plastic,fixed,flat
+breadknife_1_3dwh2.ply,metal,fixed,"flat, line"
+spoon_4_3dwh2.ply,metal,fixed,"flat, point"
+bottle_8_3dwh1.ply,metal,fixed,flat
+mug_1_3dwh1.ply,plastic,fixed,flat
+pliers_2_seg1.ply,metal,revolute,flat
+mug_3_3dwh2.ply,plastic,fixed,flat
+cube1.ply,foam,fixed,flat
+scissors_2_seg1.ply,plastic,revolute,flat
+cuboid1.ply,foam,fixed,flat
+chopstick_7_3dwh1.ply,wood,fixed,point
+fyingpan_3_3dwh2.ply,metal,fixed,flat
+tablefork_18_3dwh2.ply,metal,fixed,point
+bowl_3_3dwh1.ply,plastic,fixed,flat
+tablefork_19_3dwh4.ply,plastic,fixed,point
+tablefork_14_3dwh2.ply,metal,fixed,point
+tablefork_13_3dwh2.ply,metal,fixed,point
+screwdriver_3_seg3.ply,plastic,fixed,flat
+pliers_2_seg2.ply,plastic,revolute,flat
+scissors_2_seg2.ply,metal,revolute,point
+tablefork_14_3dwh1.ply,plastic,fixed,flat
+bottle_5_3dwh1.ply,plastic,fixed,flat
+spoon_1_3dwh2.ply,plastic,fixed,flat
+bottle_5_3dwh2.ply,plastic,fixed,flat
+tablefork_18_3dwh1.ply,plastic,fixed,flat
+scissor1_2.ply,plastic,revolute,point
+pliers2_1.ply,metal,revolute,flat
+pliers1_2.ply,metal,revolute,point
+scissor1_1.ply,plastic,revolute,flat
+pliers1_1.ply,plastic,revolute,flat
+pliers3_2.ply,metal,revolute,point
+pliers3_1.ply,plastic,revolute,flat
+pliers2_2.ply,metal,revolute,flat

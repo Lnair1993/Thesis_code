@@ -1,0 +1,13 @@
+obj_combo,geoscore,att_type,att_score,material_score,total_score
+"('wood_short_midPoint.ply', 'wood_long_endPoint.ply')",0.7539613,magnetic,0.005294677,0,0.7592559769999999
+"('wood_L_shape.ply', 'wood_long_endPoint.ply')",0.8290228,magnetic,0.008309199,0,0.837331999
+"('wood_long_midPoint.ply', 'wood_long_endPoint.ply')",0.8335869,magnetic,0.02664652,0,0.86023342
+"('wood_short_midPoint.ply', 'wood_L_shape.ply')",0.8088616,magnetic,0.08124824,0,0.8901098399999999
+"('wood_long_midPoint.ply', 'wood_L_shape.ply')",0.9006666,magnetic,0.1026001,0,1.0032667
+"('wood_L_shape.ply', 'wood_long_midPoint.ply')",0.9131439,magnetic,0.1056757,0,1.0188196
+"('wood_short_midPoint.ply', 'wood_long_midPoint.ply')",0.9327285,magnetic,0.1026612,0,1.0353896999999999
+"('wood_L_shape.ply', 'wood_short_midPoint.ply')",0.9973133,magnetic,0.05932178,0,1.05663508
+"('wood_long_midPoint.ply', 'wood_short_midPoint.ply')",0.9983995,magnetic,0.0776591,0,1.0760586
+"('wood_long_endPoint.ply', 'wood_L_shape.ply')",0.9833512,magnetic,0.1699507,0,1.1533019
+"('wood_long_endPoint.ply', 'wood_long_midPoint.ply')",0.9825605,magnetic,0.1913637,0,1.1739241999999999
+"('wood_long_endPoint.ply', 'wood_short_midPoint.ply')",1.095046,magnetic,0.1450096,0,1.2400556

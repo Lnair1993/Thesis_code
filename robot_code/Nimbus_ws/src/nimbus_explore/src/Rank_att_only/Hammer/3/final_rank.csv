@@ -1,0 +1,15 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('red_foam.ply', 'screwdriver_small.ply')",0.8194834,pierce,0.0001439373,0.0001439373
+"('screwdriver_small.ply', 'pliers.ply')",0.9804143,grasp,0.03015627,0.03015627
+"('red_foam.ply', 'white_bread.ply')",1.167871,None,inf,inf
+"('red_foam.ply', 'pliers.ply')",0.8742169,None,inf,inf
+"('screwdriver_small.ply', 'white_bread.ply')",1.007497,None,inf,inf
+"('red_foam.ply', 'pliers.ply')",0.8742169,None,inf,inf
+"('white_bread.ply', 'red_foam.ply')",1.362332,None,inf,inf
+"('pliers.ply', 'screwdriver_small.ply')",0.9993932,pierce,0.000143931,inf
+"('white_bread.ply', 'pliers.ply')",1.169948,None,inf,inf
+"('pliers.ply', 'red_foam.ply')",1.261518,None,inf,inf
+"('white_bread.ply', 'pliers.ply')",1.169948,None,inf,inf
+"('pliers.ply', 'white_bread.ply')",0.892915,None,inf,inf
+"('white_bread.ply', 'screwdriver_small.ply')",1.289227,pierce,0.0001439292,inf
+"('screwdriver_small.ply', 'red_foam.ply')",1.363298,None,inf,inf

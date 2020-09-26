@@ -1,0 +1,28 @@
+# Handle
+Cylinder 0.6 8
+
+# Head
+Multi_begin
+  # Frame
+    Cuboid 5 0.5 0.5 
+    T 0 -2.5 0
+    Cuboid 5 0.5 0.5 
+    T 0 2.5 0
+    Cuboid 0.5 5 0.5
+    T -2.5 0 0
+    Cuboid 0.5 5 0.5
+    T 2.5 0 0
+  # Grid Vertical (along y)
+    Cuboid 0.2 5 0.2
+    Cuboid 0.2 5 0.2
+    T 1.25 0 0
+    Cuboid 0.2 5 0.2
+    T -1.25 0 0
+  # Grid Horizontal (along x)
+    Cuboid 5 0.2 0.2
+    Cuboid 5 0.2 0.2
+    T 0 1.25 0
+    Cuboid 5 0.2 0.2
+    T 0 -1.25 0
+Multi_end
+T 0 6.4 0

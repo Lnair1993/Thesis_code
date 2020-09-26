@@ -1,0 +1,19 @@
+obj_combo,geoscore,att_type,att_score,material_score,total_score
+"('wood_short_midPoint.ply', 'wood_long_endPoint.ply')",0.7539613,magnetic,0.005294677,0.25,1.009255977
+"('wood_long_endPoint.ply', 'wood_short_midPoint.ply')",1.095046,magnetic,0.1450096,0.25,1.4900556
+"('yellow_foam.ply', 'screwdriver_large.ply')",1.02861,pierce,0.0001436564,2.0,3.0287536564
+"('wood_long_endPoint.ply', 'screwdriver_large.ply')",1.196649,pierce,0.0001436655,1.25,inf
+"('screwdriver_large.ply', 'yellow_foam.ply')",0.8399227,None,inf,2.0,inf
+"('wood_short_midPoint.ply', 'yellow_foam.ply')",1.023011,None,inf,1.25,inf
+"('screwdriver_large.ply', 'wood_long_endPoint.ply')",0.6901336,None,inf,1.0,inf
+"('screwdriver_large.ply', 'wood_short_midPoint.ply')",0.7377549,None,inf,1.0,inf
+"('wood_long_endPoint.ply', 'yellow_foam.ply')",1.218026,None,inf,1.25,inf
+"('wood_long_endPoint.ply', 'yellow_foam.ply')",1.218026,None,inf,1.25,inf
+"('yellow_foam.ply', 'wood_short_midPoint.ply')",0.9113203,None,inf,1.0,inf
+"('screwdriver_large.ply', 'wood_long_endPoint.ply')",0.6901336,None,inf,1.0,inf
+"('screwdriver_large.ply', 'wood_short_midPoint.ply')",0.7377549,None,inf,1.0,inf
+"('wood_short_midPoint.ply', 'screwdriver_large.ply')",1.003323,pierce,0.000143663,1.25,inf
+"('yellow_foam.ply', 'wood_long_endPoint.ply')",0.7740493,None,inf,1.0,inf
+"('yellow_foam.ply', 'wood_short_midPoint.ply')",0.9113203,None,inf,1.0,inf
+"('yellow_foam.ply', 'wood_long_endPoint.ply')",0.7740493,None,inf,1.0,inf
+"('wood_short_midPoint.ply', 'yellow_foam.ply')",1.023011,None,inf,1.25,inf

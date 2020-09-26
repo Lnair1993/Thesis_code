@@ -1,0 +1,27 @@
+# Handle
+Cylinder 0.2 9
+R x 90
+T 0 -0.5 6
+
+# Head
+Multi_begin
+  Torus 1.5 0.15 20 160
+  R x 90
+  Torus 1.5 0.15 20 160
+  R x 90
+  R y 30
+  Torus 1.5 0.15 20 160
+  R x 90
+  R y -30
+  Torus 1.5 0.15 20 160
+  R x 90
+  R y 60
+  Torus 1.5 0.15 20 160
+  R x 90
+  R y -60
+  Torus 1.5 0.15 20 160
+  R x 90
+  R y -90
+  Torus 1.5 0.15 
+  T 0 -0.5 0
+Multi_end

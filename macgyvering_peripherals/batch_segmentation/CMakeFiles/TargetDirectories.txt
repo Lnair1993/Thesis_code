@@ -1,0 +1,2 @@
+/home/lnair3/batch_segmentation/CMakeFiles/remove_similar_segm.dir
+/home/lnair3/batch_segmentation/CMakeFiles/segment_meshes.dir

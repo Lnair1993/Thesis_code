@@ -1,0 +1,5 @@
+Cylinder 3 6
+R z 90
+Cylinder 1 15
+R z 90
+T 10 0 0

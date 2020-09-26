@@ -1,0 +1,8 @@
+Inter_begin
+  Cone 2 20
+  T 0 -4 0
+  Cuboid 3 5 3
+Inter_end
+Cuboid 1 10 1
+R z 90
+T 6 0 0

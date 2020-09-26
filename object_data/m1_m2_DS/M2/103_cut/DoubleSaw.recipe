@@ -1,0 +1,12 @@
+# Blade
+Cuboid 20 3 0.3
+
+# Handle 1
+Cylinder 0.7 6
+R z 90
+T 12 0.84 0
+
+# Handle 2
+Cylinder 0.7 6 
+R z 90
+T -12 0.84 0

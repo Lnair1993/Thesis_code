@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+
+project(planar_segmentation)
+
+find_package(PCL 1.2 REQUIRED)
+find_package(PythonLibs)
+find_package(Boost COMPONENTS python)
+
+include_directories(${PCL_INCLUDE_DIRS})
+include_directories(${Boost_INCLUDE_DIRS})
+include_directories(${PYTHON_INCLUDE_DIRS})
+
+link_directories(${PCL_LIBRARY_DIRS})
+add_definitions(${PCL_DEFINITIONS})
+
+add_executable(planar_segmentation planar_segmentation.cpp)
+target_link_libraries(planar_segmentation ${PCL_LIBRARIES})
+
+set(py_dir /home/lnair3/Github_files/lnair3/Macgyvering/Level_1_MG_v3)
+
+PYTHON_ADD_MODULE(NativeLib object_sense)
+FILE(COPY driver.py DESTINATION ${py_dir})

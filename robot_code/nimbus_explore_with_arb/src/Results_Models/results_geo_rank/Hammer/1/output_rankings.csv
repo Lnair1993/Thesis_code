@@ -1,0 +1,13 @@
+action_part,grasp_part,attachment,geo_score,att_score
+wood_short_midPoint.ply,wood_long_endPoint.ply,magnetic,7.539613e-01,5.294677e-03
+wood_short_midPoint.ply,wood_L_shape.ply,magnetic,8.088616e-01,8.124824e-02
+wood_L_shape.ply,wood_long_endPoint.ply,magnetic,8.290228e-01,8.309199e-03
+wood_long_midPoint.ply,wood_long_endPoint.ply,magnetic,8.335869e-01,2.664652e-02
+wood_long_midPoint.ply,wood_L_shape.ply,magnetic,9.006666e-01,1.026001e-01
+wood_L_shape.ply,wood_long_midPoint.ply,magnetic,9.131439e-01,1.056757e-01
+wood_short_midPoint.ply,wood_long_midPoint.ply,magnetic,9.327285e-01,1.026612e-01
+wood_long_endPoint.ply,wood_long_midPoint.ply,magnetic,9.825605e-01,1.913637e-01
+wood_long_endPoint.ply,wood_L_shape.ply,magnetic,9.833512e-01,1.699507e-01
+wood_L_shape.ply,wood_short_midPoint.ply,magnetic,9.973133e-01,5.932178e-02
+wood_long_midPoint.ply,wood_short_midPoint.ply,magnetic,9.983995e-01,7.765910e-02
+wood_long_endPoint.ply,wood_short_midPoint.ply,magnetic,1.095046e+00,1.450096e-01

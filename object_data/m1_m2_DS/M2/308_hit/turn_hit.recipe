@@ -1,0 +1,33 @@
+Sphere 3
+T 22 0 0
+
+Sphere 3
+T 22 0 0
+RC y 90
+
+Sphere 3
+T 22 0 0
+RC y 180
+
+Sphere 3
+T 22 0 0
+RC y 270
+
+
+Multi_begin
+  Cylinder 0.8 20
+  R z 90
+  T 10 0 0
+  Cylinder 0.8 20
+  R z 90
+  T 10 0 0
+  RC y 90
+  Cylinder 0.8 20
+  R z 90
+  T 10 0 0
+  RC y 180
+  Cylinder 0.8 20
+  R z 90
+  T 10 0 0
+  RC y 270
+Multi_end

@@ -1,0 +1,14 @@
+obj_combo,geoscore,att_type,att_score,material_score,total_score
+"('yellow_foam.ply', 'screwdriver_large.ply')",58.18588,pierce,0.1406149,0,58.3264949
+"('yellow_foam.ply', 'tongs.ply')",58.26474,grasp,0.3646984,0,58.629438400000005
+"('screwdriver_large.ply', 'tongs.ply')",58.48273,grasp,0.2642872,0,58.747017199999995
+"('coin.ply', 'tongs.ply')",59.17655,grasp,0.2689714,0,59.4455214
+"('coin.ply', 'tongs.ply')",59.17655,grasp,0.2794155,0,59.4559655
+"('coin.ply', 'screwdriver_large.ply')",59.09279,pierce,0.1406149,0,inf
+"('yellow_foam.ply', 'coin.ply')",58.91104,None,inf,0,inf
+"('screwdriver_large.ply', 'yellow_foam.ply')",58.70327,None,inf,0,inf
+"('coin.ply', 'yellow_foam.ply')",58.93029,None,inf,0,inf
+"('tongs.ply', 'yellow_foam.ply')",58.60656,None,inf,0,inf
+"('screwdriver_large.ply', 'coin.ply')",59.39904,None,inf,0,inf
+"('tongs.ply', 'coin.ply')",59.21906,None,inf,0,inf
+"('tongs.ply', 'screwdriver_large.ply')",58.36552,pierce,0.1316711,0,inf

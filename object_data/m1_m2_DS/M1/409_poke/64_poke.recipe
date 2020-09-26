@@ -1,0 +1,8 @@
+Cut_begin
+  Cone 1.5 30
+by
+  Cuboid 4 10 4
+  T 0 25.1 0
+Cut_end
+Cylinder 1 7
+T 0 -3.48 0

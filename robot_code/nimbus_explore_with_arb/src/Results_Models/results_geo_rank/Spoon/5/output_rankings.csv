@@ -1,0 +1,14 @@
+action_part,grasp_part,attachment,geo_score,att_score
+steel_bowl.ply,screwdriver_small.ply,pierce,4.837300e-01,1.774057e-03
+pliers.ply,screwdriver_small.ply,pierce,6.109480e-01,1.774056e-03
+red_foam.ply,screwdriver_small.ply,pierce,7.318240e-01,1.774057e-03
+steel_bowl.ply,pliers.ply,grasp,8.945835e-01,4.836512e-02
+steel_bowl.ply,red_foam.ply,None,9.465311e-01,Inf
+pliers.ply,steel_bowl.ply,None,1.041595e+00,Inf
+pliers.ply,red_foam.ply,None,1.118422e+00,Inf
+red_foam.ply,steel_bowl.ply,None,1.145555e+00,Inf
+red_foam.ply,pliers.ply,None,1.150664e+00,Inf
+red_foam.ply,pliers.ply,None,1.150664e+00,Inf
+screwdriver_small.ply,pliers.ply,grasp,1.177484e+00,2.404271e-02
+screwdriver_small.ply,red_foam.ply,None,1.208038e+00,Inf
+screwdriver_small.ply,steel_bowl.ply,None,1.208698e+00,Inf

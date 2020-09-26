@@ -1,0 +1,22 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('wood_L_shape.ply', 'wood_short_midPoint.ply')",58.37186,magnetic,0.3010985,58.6729585
+"('wood_L_shape.ply', 'tongs.ply')",58.36769,grasp,0.3220398,58.6897298
+"('wood_L_shape.ply', 'tongs.ply')",58.36769,grasp,0.3221249,58.6898149
+"('wood_short_midPoint.ply', 'tongs.ply')",58.47425,grasp,0.2367327,58.710982699999995
+"('wood_short_midPoint.ply', 'wood_L_shape.ply')",58.51327,magnetic,0.3072076,58.8204776
+"('red_flat_piece_2mag.ply', 'wood_short_midPoint.ply')",58.65077,magnetic,0.2980436,58.9488136
+"('red_flat_piece_2mag.ply', 'wood_short_midPoint.ply')",58.65077,magnetic,0.3415137,58.9922837
+"('red_flat_piece_2mag.ply', 'wood_L_shape.ply')",58.76022,magnetic,0.3082957,59.0685157
+"('red_flat_piece_2mag.ply', 'wood_L_shape.ply')",58.76022,magnetic,0.3517658,59.1119858
+"('red_flat_piece_2mag.ply', 'tongs.ply')",58.86133,grasp,0.3190615,59.1803915
+"('wood_L_shape.ply', 'red_flat_piece_2mag.ply')",59.00993,magnetic,0.3066207,59.3165507
+"('wood_short_midPoint.ply', 'red_flat_piece_2mag.ply')",59.04048,magnetic,0.3024778,59.3429578
+"('wood_L_shape.ply', 'red_flat_piece_2mag.ply')",59.00993,magnetic,0.3344241,59.3443541
+"('wood_short_midPoint.ply', 'red_flat_piece_2mag.ply')",59.04048,magnetic,0.3302812,59.370761200000004
+"('tongs.ply', 'red_flat_piece_2mag.ply')",59.23264,None,inf,inf
+"('tongs.ply', 'red_flat_piece_2mag.ply')",59.23264,None,inf,inf
+"('tongs.ply', 'red_flat_piece_2mag.ply')",59.23264,None,inf,inf
+"('tongs.ply', 'wood_short_midPoint.ply')",58.7449,None,inf,inf
+"('tongs.ply', 'wood_L_shape.ply')",58.76779,None,inf,inf
+"('tongs.ply', 'wood_L_shape.ply')",58.76779,None,inf,inf
+"('tongs.ply', 'wood_short_midPoint.ply')",58.7449,None,inf,inf

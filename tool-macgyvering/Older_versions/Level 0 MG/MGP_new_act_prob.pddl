@@ -1,0 +1,8 @@
+(define (problem MGP_new_act_prob)
+	(:domain MGP_new_act)
+	(:objects pan nail)
+	(:init (not(have pan))
+		   (not (hammered nail))
+	)
+	(:goal (hammered nail))
+)

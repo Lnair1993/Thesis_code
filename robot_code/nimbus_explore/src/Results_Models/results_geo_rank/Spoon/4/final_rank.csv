@@ -1,0 +1,14 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('wood_wheel.ply', 'tongs.ply')",0.4418861,grasp,0.0426074,0.4844935
+"('wood_wheel.ply', 'tongs.ply')",0.4418861,grasp,0.04401958,0.48590568
+"('red_bowl.ply', 'tongs.ply')",0.4780977,grasp,0.03959578,0.51769348
+"('wooden_screw.ply', 'tongs.ply')",0.7846016,grasp,0.009716045,0.794317645
+"('red_bowl.ply', 'wood_wheel.ply')",0.9443828,None,inf,inf
+"('wooden_screw.ply', 'wood_wheel.ply')",1.215163,None,inf,inf
+"('tongs.ply', 'red_bowl.ply')",1.475516,None,inf,inf
+"('tongs.ply', 'wood_wheel.ply')",1.484725,None,inf,inf
+"('wood_wheel.ply', 'wooden_screw.ply')",0.4012825,None,inf,inf
+"('wooden_screw.ply', 'red_bowl.ply')",1.207645,None,inf,inf
+"('tongs.ply', 'wooden_screw.ply')",1.095753,None,inf,inf
+"('red_bowl.ply', 'wooden_screw.ply')",0.4689575,None,inf,inf
+"('wood_wheel.ply', 'red_bowl.ply')",0.8679579,None,inf,inf

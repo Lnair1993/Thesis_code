@@ -1,0 +1,8 @@
+% Attachment point transformation based on relative position to mean
+
+function att_tf = att_point_tfm(att_point, obj_pose, action_mean, grasp_mean)
+    att_point_action_pose = att_point_action(2:end);
+    att_point_grasp_pose = att_point_grasp(2:end);
+    
+    
+end

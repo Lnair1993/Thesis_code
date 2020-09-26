@@ -1,0 +1,25 @@
+obj_combo,geoscore,att_type,att_score,total_score
+"('steel_bowl_small.ply', 'wood_long_endPoint.ply')",0.5290707,magnetic,0.003869027,0.003869027
+"('steel_bowl_small.ply', 'wood_long_endPoint.ply')",0.5290707,magnetic,0.0567469,0.0567469
+"('wood_long_midPoint.ply', 'wood_long_endPoint.ply')",1.193348,magnetic,0.08035096,0.08035096
+"('wood_long_midPoint.ply', 'steel_bowl_small.ply')",1.500504,magnetic,0.08035135,0.08035135
+"('steel_bowl_small.ply', 'wood_long_midPoint.ply')",0.2822337,magnetic,0.09962168,0.09962168
+"('wood_long_midPoint.ply', 'steel_bowl_small.ply')",1.500504,magnetic,0.1335854,0.1335854
+"('steel_bowl_small.ply', 'wood_long_midPoint.ply')",0.2822337,magnetic,0.1524993,0.1524993
+"('wood_long_endPoint.ply', 'steel_bowl_small.ply')",1.54869,magnetic,0.1897318,0.1897318
+"('wood_long_endPoint.ply', 'steel_bowl_small.ply')",1.54869,magnetic,0.2429659,0.2429659
+"('wood_long_endPoint.ply', 'wood_long_midPoint.ply')",0.9106696,magnetic,0.2854838,0.2854838
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,inf
+"('wood_long_endPoint.ply', 'steel_bowl.ply')",1.579065,None,inf,inf
+"('steel_bowl.ply', 'wood_long_endPoint.ply')",0.6105155,None,inf,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,inf
+"('steel_bowl.ply', 'wood_long_midPoint.ply')",0.33469,None,inf,inf
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,inf
+"('wood_long_midPoint.ply', 'steel_bowl.ply')",1.522827,None,inf,inf
+"('steel_bowl.ply', 'steel_bowl_small.ply')",0.9341528,None,inf,inf
+"('wood_long_endPoint.ply', 'steel_bowl.ply')",1.579065,None,inf,inf
+"('steel_bowl.ply', 'wood_long_endPoint.ply')",0.6105155,None,inf,inf
+"('steel_bowl_small.ply', 'steel_bowl.ply')",0.8626938,None,inf,inf
+"('steel_bowl.ply', 'wood_long_midPoint.ply')",0.33469,None,inf,inf
+"('wood_long_midPoint.ply', 'steel_bowl.ply')",1.522827,None,inf,inf

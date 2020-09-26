@@ -1,0 +1,30 @@
+# Handle
+Cuboid 0.8 8 0.8
+
+# Head
+Multi_begin
+  # Vertical
+    Cylinder 0.18 8
+    Cylinder 0.18 8
+    R z -10
+    T 0.8 0 0
+    Cylinder 0.18 8
+    R z 10
+    T -0.8 0 0
+    Cylinder 0.18 8
+    R z 20
+    T -1.6 0 0
+    Cylinder 0.18 8
+    R z -20
+    T 1.6 0 0
+  # Horizontal
+    Cylinder 0.15 4
+    R z 90
+    Cylinder 0.15 5
+    R z 90   
+    T 0 2 0
+    Cylinder 0.15 2.6
+    R z 90   
+    T 0 -2.2 0
+Multi_end
+T 0 7 0

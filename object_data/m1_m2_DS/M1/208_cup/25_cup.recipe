@@ -1,0 +1,17 @@
+Multi_begin
+  Cuboid 2.4 0.8 0.8
+  T 0 1.5 0
+  Cuboid 0.699 4.2 0.699
+  T -1.2 0 0
+  Cuboid 2.4 0.7 0.7
+  T 0 -1.5 0
+Multi_end
+T -3.4 0 0
+
+Cut_begin
+  Wedge 5 5 4 4 5
+by
+  Cylinder 1.8 5
+  T 0 0.2 0
+Cut_end
+
