@@ -1,3 +1,3 @@
-This repository contains code developed during the thesis.
+This repository contains code developed during my thesis.
 
 For the final code and instructions, please refer to the Tool_Macgyvering repository.
